@@ -1,0 +1,27 @@
+#title {
+    position: absolute;
+    left: 5%;
+
+    color: red;
+    font-family: monospace;
+    font-size: 50px;
+}
+
+#body {
+    background-color: black;
+}
+
+#contenitore_top{
+display:block;
+position:relative;
+}
+
+.IOIO {min-height:28px !important;}
+
+div.a{
+
+  text-align:center;
+}
+.alignleft { float: left; padding: 110px 15px 15px 0; }
+.alignright { float: right; padding: 15px 0 15px 15px; }
+
